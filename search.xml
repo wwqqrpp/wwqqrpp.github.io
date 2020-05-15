@@ -17,19 +17,6 @@
     
     
     <entry>
-      <title>测试</title>
-      <link href="/2020/04/16/kao-shi-cheng-ji-zha-liao/"/>
-      <url>/2020/04/16/kao-shi-cheng-ji-zha-liao/</url>
-      
-        <content type="html"><![CDATA[<html><head></head><body><p>尼玛，开学考成绩炸了！！！<br>MMP，生物老子填空题扣了十分，十分啊！！！</p><h2 id="狗东西"><a href="#狗东西" class="headerlink" title="狗东西"></a>狗东西</h2><h2 id="孩子，你慢慢来"><a href="#孩子，你慢慢来" class="headerlink" title="孩子，你慢慢来"></a>孩子，你慢慢来</h2><h3 id="FXXK-YOU！！！"><a href="#FXXK-YOU！！！" class="headerlink" title="FXXK YOU！！！"></a>FXXK YOU！！！</h3><p>你可以滚了！！！</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script></body></html>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/2020/04/16/hello-world/"/>
       <url>/2020/04/16/hello-world/</url>
